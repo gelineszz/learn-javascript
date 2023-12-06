@@ -65,7 +65,12 @@ let nums2 = 25;
 
 /*
  * == & != is abstract equality or loose equality
- * It is not comparing the value's type, only the value
+ * It is not comparing the value's type, only the value.
+ * 
+ * So it is essentially implicit converting.
+ * In other word, it changed the type of the values
+ * behind the scene, before comparing them.
+ * 
  * (equal to)
  */
 console.log(nums2 == 25);
