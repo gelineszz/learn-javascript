@@ -9,3 +9,6 @@ Chapter 1 is all about basic syntax and data types in JavaScript. It also includ
 - Boolean
 - Null and Undefined
 - Array
+- Template String
+- Arithmetic Operators
+- Comparison Operators
