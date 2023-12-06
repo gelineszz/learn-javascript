@@ -12,3 +12,4 @@ Chapter 1 is all about basic syntax and data types in JavaScript. It also includ
 - Template String
 - Arithmetic Operators
 - Comparison Operators
+- Type Conversion
